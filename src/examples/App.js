@@ -1,7 +1,7 @@
-import React, { useState, useMemo } from 'react';
-import Pagination from '../Pagination';
-import data from './data/mock-data.json';
-import './style.scss';
+import React, { useState, useMemo } from "react";
+import Pagination from "../Pagination";
+import data from "./data/mock-data.json";
+import "./style.css";
 
 let PageSize = 10;
 
